@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ultrand Real Estate Advisory</title>
-    <link>https://ultrand.co/</link>
-    <description>Recent content on Ultrand Real Estate Advisory</description>
+    <title>Blogs on Ultrand Real Estate Advisory</title>
+    <link>https://ultrand.co/blog/</link>
+    <description>Recent content in Blogs on Ultrand Real Estate Advisory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Aug 2018 00:20:17 +0300</lastBuildDate>
     
-	<atom:link href="https://ultrand.co/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ultrand.co/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://ultrand.co/blog/2018/08/06/analysis/</guid>
       <description>PART 2 – TENANCY AGREEMENTS
 Despite the freedom regarding the form of contract in subsection 3(1), we strongly discourage the option of a verbal contract. It is beneficial that both parties opt for terms ingrained in a deed to eliminate the unnecessary burden that arises from verbal contracts. Why fight the avoidable battle to prove the existence of a contract before the real battles like disputing the contract’s precise meaning or its inadequacy.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://ultrand.co/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ultrand.co/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you want us to provide you with bespoke real estate investment and advisory services? Please do get in touch with us!</description>
     </item>
     
   </channel>
